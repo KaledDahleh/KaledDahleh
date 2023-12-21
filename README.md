@@ -5,5 +5,5 @@
 - 📫 ou can reach me via:
 
 Email: kdahleh23@gmail.com
-LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/kaleddahleh)https://www.linkedin.com/in/kaleddahleh]
+LinkedIn: https://www.linkedin.com/in/kaleddahleh]
 
