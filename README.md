@@ -1,8 +1,5 @@
-# Hello, I'm Kaled
-## Expected Graduation 2026
-### Pursuing a dual degree in Computer Science and Physics @ UIC
-
-#### Throughout the Summer of 2024 I have been exploring ... 
+## B.S. Physics, B.S. Computer Science @ UIC - 2026
+# Summer 2024 focus:
 
   - Deep Learning Frameworks
   - Numerical Computing
