@@ -1,4 +1,4 @@
-## B.S. Physics, B.S. Computer Science @ UIC - 2026
+## B.S. Physics, B.S. Computer Science @ UIC
 # Summer 2024 focus:
 
   - Deep Learning Frameworks
